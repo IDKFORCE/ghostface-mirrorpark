@@ -1,10 +1,7 @@
-# fs_mirrorpark
-ymaps made by ⸸♱♥IDK_FORCE♥♱⸸#7611
+# ghostface-mirrorpark
 
 ```My Discord```
 - [Discord](https://discord.gg/UFng7DWnWP)
 
+## Showcase
 
->fs_mirrorpark.ymap
-![Image description](https://cdn.discordapp.com/attachments/784243374269661195/967465674215661598/unknown.png)
-<
